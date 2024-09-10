@@ -1,6 +1,7 @@
 # Write your own java framework
 Understand how Spring, JakartaEE, Jackson, Guice and Hibernate works by rewriting a toy version of them
 ## Forked in 2024
+## Modified in Intellij
 [Tips and Tricks used in the implementations](COMPANION.md)
 
 - [Writing objects to JSON](mapper/README.md) &#9734; and [Reading objects from JSON](mapper/README2.md) &#9734;&#9734;&#9734;
