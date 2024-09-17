@@ -9,7 +9,6 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.github.forax.framework</groupId>
     <artifactId>mapper</artifactId>
     <version>1.0-SNAPSHOT</version>
 
